@@ -7,4 +7,4 @@ How to read [4 books in 5 hours a la Sherif](https://gist.github.com/amgando/923
 The BEST thing you can do is to be reading 10x more code than the amount you are writing. Do not try to understand, just read it, and then let your brain relax and do its job. We can talk about this on Wednesday
 In the mean time, here the most popular [Ruby repos on Github](https://github.com/trending/ruby).
 
-And please read this post on (Object Oriented Programming)[http://zetcode.com/lang/rubytutorial/oop/].
+And please read this post on [Object Oriented Programming](http://zetcode.com/lang/rubytutorial/oop/).
